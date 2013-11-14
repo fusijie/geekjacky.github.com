@@ -23,6 +23,6 @@ My Personal Blog is
 </center>
 
 <!-- more -->
-*<center>You couldn't see this line in Home page.</center>*
+*<center>你无法在主页上看到这一行</center>*
 
 	You can contact me with Email(fusijie@vip.qq.com) or QQ(754505629).
