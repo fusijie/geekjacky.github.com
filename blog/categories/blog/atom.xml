@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: Blog | JackyStudio]]></title>
-  <link href="http://GeekJacky.github.io/blog/categories/blog/atom.xml" rel="self"/>
-  <link href="http://GeekJacky.github.io/"/>
-  <updated>2013-11-14T17:00:34+08:00</updated>
-  <id>http://GeekJacky.github.io/</id>
+  <link href="www.jackystuio.tk/blog/categories/blog/atom.xml" rel="self"/>
+  <link href="www.jackystuio.tk/"/>
+  <updated>2013-11-14T17:02:32+08:00</updated>
+  <id>www.jackystuio.tk/</id>
   <author>
     <name><![CDATA[Jacky]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Hello Github Blog]]></title>
-    <link href="http://GeekJacky.github.io/blog/2013/11/13/hello-github-blog/"/>
+    <link href="www.jackystuio.tk/blog/2013/11/13/hello-github-blog/"/>
     <updated>2013-11-13T15:38:00+08:00</updated>
-    <id>http://GeekJacky.github.io/blog/2013/11/13/hello-github-blog</id>
+    <id>www.jackystuio.tk/blog/2013/11/13/hello-github-blog</id>
     <content type="html"><![CDATA[<br>
 
 
