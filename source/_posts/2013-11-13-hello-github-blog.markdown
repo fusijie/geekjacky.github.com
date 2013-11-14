@@ -4,6 +4,7 @@ title: "Hello Github Blog"
 date: 2013-11-13 15:38
 comments: true
 categories: Blog
+tags: [Octopress]
 ---
 <br>
 </br>
