@@ -1,11 +1,16 @@
 ## About me
 
-1.Author: Jacky/偶尔e网事
-2.Date: 2013.11
-3.QQ: 754505629
-4.E-mail: Geek.Jacky@Gmail.com
-5.CSDN Blog: http://blog.csdn.net/jackystudio
-6.Website: http://www.fusijie.com
+1.**Author**: Jacky/偶尔e网事
+
+2.**Date**: 2013.11
+
+3.**QQ**: 754505629
+
+4.**E-mail**: Geek.Jacky@Gmail.com
+
+5.**CSDN Blog**: http://blog.csdn.net/jackystudio
+
+6.**Website**: http://www.fusijie.com
 
 
 ## What is Octopress?
